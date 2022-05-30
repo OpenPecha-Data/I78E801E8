@@ -1,0 +1,26 @@
+id: I78E801E8
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T05:29:26.099415'
+last_modified: '2022-05-31T05:29:26.099420'
+parser: null
+source_metadata:
+  title: Ngakchang Shakya Zangpo Series
+  language: bo
+  description: 'Texts related to the tertön Ngakchang Shakya Zangpo (sngags ''chang
+    shākya bzang po, b. 15th century), who is famous for having opened up the ''hidden
+    land'' of Yolmo:'
+  volume:
+    f593D:
+      title: 'Liberation Upon Hearing: The History of the Great Jarung Kashor Stūpa'
+      base_file: f593D.txt
+      order: 1
+      parent: History
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
